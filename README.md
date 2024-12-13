@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @reyzknight0
-- 👀 I’m interested in Java & C++
+- 👋 Hi, I’m @abdullahalfahim1
+- 👀 I’m interested in Py & Js
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
